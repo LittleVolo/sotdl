@@ -1,4 +1,4 @@
-![sotdl_banner.png]
+![Banner](sotdl_banner.png)
 # Shadow of the Demon Lord
 Game system support for Encounter+ VTT
 
