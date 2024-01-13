@@ -7,8 +7,11 @@ Game system support for Encounter+ VTT
 ## Progress report
 
 #### Entities
-- Creature
-- Spell
+- Ancestries
+- Complications
+- Creatures
+- Items
+- Spells
 
 #### System
 - Filters
