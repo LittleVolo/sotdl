@@ -8,16 +8,23 @@ Game system support for Encounter+ VTT
 
 #### Entities
 - Ancestries
+- Paths
 - Complications
 - Creatures
 - Items
 - Spells
+- Tables
 
 #### System
 - Filters
-- Setting
+- Settings (Language)
+- Automation : modifiers
 
 #### Localisation
 - English
 - French
+
+## In progress:
+- Entities: characters (non-functional), vehicles
+- Automation: dice checks
   
